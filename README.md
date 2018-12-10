@@ -1,6 +1,6 @@
 # Yu Chen Economics Major Dissertation
-##The Reasons of the Plunge in the Velocity of M1 from 2007 to the Present Time
+## The Reasons of the Plunge in the Velocity of M1 from 2007 to the Present Time
 
-[Dissertation: ](Economics-Dissertation/EC-490 Dissertation Yu Chen.pdf)
+## [Dissertation](https://github.com/patrickchen914/Economics-Dissertation/blob/master/EC-490%20Dissertation%20Yu%20Chen.pdf)
 
-[Data Processing and Data Visualization: ](Economics-Dissertation/MV=PY.ipynb)
+## [Data Processing and Data Visualization](https://github.com/patrickchen914/Economics-Dissertation/blob/master/MV%3DPY.ipynb)
